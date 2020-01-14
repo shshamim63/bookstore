@@ -6,7 +6,7 @@ import uuidv1 from 'uuid/v1';
 import PropTypes from 'prop-types';
 import { createBook } from '../actions/index';
 
-const BOOK_CATEGORY = ['Action', 'Biography', 'History', 'Horror', 'Kids', 'Learning', 'Sci-Fi'];
+import { BOOK_CATEGORY } from '../utils/bookObject';
 
 class BookForm extends React.Component {
   constructor(props) {
