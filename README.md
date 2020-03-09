@@ -49,7 +49,7 @@ You will also see any lint errors in the console.
 
 ## Live Demo
 
-The demo page can be found [HERE](https://sleepy-albattani-c139b6.netlify.com/)
+The demo page can be found [HERE](https://serene-golick-bd6385.netlify.com/)
 
 ## Designed and developed by
 
